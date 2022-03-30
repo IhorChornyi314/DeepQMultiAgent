@@ -1,0 +1,3 @@
+[submodule "DeepQAgent"]
+	path = DeepQAgent
+	url = https://github.com/IhorChornyi314/DeepQAgent.git
